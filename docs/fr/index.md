@@ -85,7 +85,7 @@ Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'angl
 [](){ #cloud-en }
 ### Introduction to cloud computing for HSS
 
-- Date: **3 november 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **3 novembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
@@ -100,7 +100,7 @@ Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste infonuagiqu
 [](){ #ocr-en }
 ### Ollama for OCR, transcription and data extraction
 
-- Date: **17 novembre 2026** à 10h PT | 11h MT | 13h ET | 15h AT
+- Date: **17 novembre 2026** à 10h PT | 11h ABT | 12h ET | 14h AT
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
@@ -119,7 +119,7 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **24 novembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **24 novembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
@@ -134,7 +134,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #ai-en }
 ### Testing AI for Social Science and Humanities Research Using Chainforge
 
-- Date: **3 décembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **3 décembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
@@ -149,7 +149,7 @@ Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philo
 [](){ #r-en }
 ### Introduction to R and RStudio
 
-- Date: **12 janvier 2027** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **12 janvier 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -164,7 +164,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #python-en }
 ### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
 
-- Date: **27 janvier 2027** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **27 janvier 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -181,7 +181,7 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 [](){ #nlp-en }
 ### Using Python for natural language processing (NLP)
 
-- Date: **3 mars 2027** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **3 mars 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -196,7 +196,7 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 [](){ #rdm-en }
 ### How to deposit: Picking a data repository and preparing your data
 
-- Date: **16 mars 2027** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **16 mars 2027** à 9h PT | 10h ABT | 12h ET | 14h AT
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
