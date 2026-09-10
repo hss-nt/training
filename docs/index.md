@@ -83,7 +83,7 @@ Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic 
 [](){ #cloud-en }
 ### Introduction to cloud computing for HSS
 
-- Date: **November 3, 2026** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **November 3, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 1 hour and 30 minutes
 - Language of instruction: English
 
@@ -117,7 +117,7 @@ Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **November 24, 2026** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **November 24, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 2 hours
 - Language of instruction: English
 
@@ -132,7 +132,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [](){ #ai-en }
 ### Testing AI for Social Science and Humanities Research Using Chainforge
 
-- Date: **December 3, 2026** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **December 3, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 2 hours
 - Language of instruction: English
 
@@ -147,7 +147,7 @@ Instructor: **Dr. Geoffrey Martin Rockwell** is a Professor of Philosophy and Di
 [](){ #r-en }
 ### Introduction to R and RStudio
 
-- Date: **January 12, 2027** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **January 12, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 3 hours
 - Language of instruction: English
 
@@ -164,7 +164,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [](){ #python-en }
 ### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
 
-- Date: **January 27, 2027** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **January 27, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 3 hours
 - Language of instruction: English
 
@@ -181,7 +181,7 @@ Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologis
 [](){ #nlp-en }
 ### Using Python for natural language processing (NLP)
 
-- Date: **March 3, 2027** at 9am PT | 10am ABT | 11pm ET | 1pm AT
+- Date: **March 3, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
 - Duration: 3 hours
 - Language of instruction: English
 
