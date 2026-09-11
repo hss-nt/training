@@ -15,6 +15,8 @@ Tous les ateliers sont proposés en ligne et l'inscription est gratuite. Bien qu
 
 Vous pouvez consulter la série complète et vous inscrire aux ateliers sur [Explora, la plateforme de formation de l’Alliance](https://explora.alliancecan.ca/collections/2026-27-humanities-and-social-sciences-hss-training-series).
 
+Tous les ateliers de cette série sont admissibles au [certificat canadien en humanités numériques](https://ccdhhn.ca/fr/le-certificat/).
+
 ## Évènements à venir
 D'autres ateliers pourraient s'ajouter à la série au fil du temps ; n'hésitez pas à consulter régulièrement cette page !
 

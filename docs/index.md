@@ -15,6 +15,8 @@ All workshops are offered online and registration is free. The workshops are aim
 
 You can view the entire series and register for the workshops on [Explora, the Alliance's training platform](https://explora.alliancecan.ca/collections/2026-27-humanities-and-social-sciences-hss-training-series).
 
+All workshops in this series can be used for credit towards the [Canadian Certificate in Digital Humanities](https://ccdhhn.ca/the-certificate/).
+
 ## Upcoming workshops
 Other workshops may be added to the series over time - check back regularly to see! 
 [](){ #page-top }
