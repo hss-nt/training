@@ -35,7 +35,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 |[Introduction to R and RStudio](#r-en)|12 janvier 2027|
 |[Getting started in Python](#python-en)|27 janvier 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|3 mars 2027|
-|[How to deposit: Picking a data repository and preparing your data](#rdm-en)|17 mars 2027|
+|[How to deposit: Picking a data repository and preparing your data](#rdm-en)|16 mars 2027|
 
 ## Évènements
 

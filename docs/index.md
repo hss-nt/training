@@ -33,7 +33,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |[Introduction to R and RStudio](#r-en)|January 12, 2027|
 |[Getting started in Python](#python-en)|January 27, 2027|
 |[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
-|[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 17, 2027|
+|[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 16, 2027|
 
 ## Workshop descriptions
 
