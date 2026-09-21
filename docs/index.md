@@ -63,7 +63,7 @@ This workshop will introduce participants to the [Digital Research Alliance of C
 
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/YQN-4_-FSSevMY03KvTKug#/registration)
 
-Instructors: TBD
+Instructors: **Sarah Cameron-Pesant** is an advanced research computing analyst, humanities and social sciences specialist at Calcul Québec, affiliated with the Université du Québec à Montréal. She is also a PhD student in information science at École de bibliothéconomie et des sciences de l’information, Université de Montréal. She is one of the team leads for the national HSS team at the Digital Research Alliance of Canada. 
 
 [Back to the schedule](#page-top)
 

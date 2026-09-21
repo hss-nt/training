@@ -65,7 +65,7 @@ Cet atelier présentera aux participant·es l’[Alliance de recherche numériqu
 
 [Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/YQN-4_-FSSevMY03KvTKug#/registration)
 
-Formatrice ou formateur : À déterminer
+Formatrice ou formateur : **Sarah Cameron-Pesant** est analyste en calcul informatique de pointe, spécialiste des sciences humaines et sociales, chez Calcul Québec, attachée à l’Université du Québec à Montréal. Elle est également étudiante au doctorat en sciences de l’information à l’École de bibliothéconomie et des sciences de l’information de l’Université de Montréal. Elle fait partie de l'équipe de direction et de coordination de l'équipe nationale SHS de l'Alliance de recherche numérique du Canada.
 
 [Retour au programme](#page-top)
 
