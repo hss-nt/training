@@ -27,6 +27,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |[Introduction à l'Alliance & CIP pour les SHS](#intro-fr)| September 24, 2026|
 |[Planning your Endings-Compliant Digital Project](#endings-en)|October 6, 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|November 3, 2026|
+|[Choosing Research Software: What Researchers Need to Consider Before Getting Started](#choosing-en)|November 12, 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|November 17, 2026|
 |[Introduction to OpenRefine](#openrefine-en)|November 24, 2026|
 |[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|December 3, 2026|
@@ -55,7 +56,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [](){ #intro-fr }
 ### Introduction à l'Alliance & CIP pour les SHS
 
-- Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 1pm AT
 - Duration: 1 hour
 - Language of instruction: French
 
@@ -70,7 +71,7 @@ Instructors: **Sarah Cameron-Pesant** is an advanced research computing analyst,
 [](){ #endings-en }
 ### The End is Where We Start From: Planning your Endings-Compliant Digital Project
 
-- Date: **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date: **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 1pm AT
 - Duration: 1 hour and 30 minutes
 - Language of instruction: English
 
@@ -85,7 +86,7 @@ Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic 
 [](){ #cloud-en }
 ### Introduction to cloud computing for HSS
 
-- Date: **November 3, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **November 3, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 1 hour and 30 minutes
 - Language of instruction: English
 
@@ -97,10 +98,27 @@ Instructor: **Srivathsan Shanmuganathan** is a Cloud Analyst with the Digital Re
 
 [Back to the schedule](#page-top)
 
+[](){ #choosing-en}
+### Choosing Research Software: What Researchers Need to Consider Before Getting Started
+
+- Date: **November 12, 2026** at 12:30pm PT | 1:30pm ABT | 2:30pm ET | 3:30pm AT
+- Duration: 1 hour and 30 minutes
+- Language of instruction: English
+
+Research software decisions can have implications for privacy, security, collaboration, and the long-term stewardship of research data. This workshop will guide participants through the process of selecting research software and understanding the complexities involved in those decisions. Participants will explore key considerations related to data sensitivity, cloud-based versus locally installed solutions, and the use of AI-enabled features. Researchers will leave with a practical set of questions and considerations to help evaluate software options and make informed decisions across a variety of research contexts.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/aczTBTeYQyaDrZ5pW9aBiA#/registration)
+ 
+Instructors:  **Claire Burrows** is the Digital Research Services Support Specialist at McGill University. She holds a PhD in Library and Information Science from Western University. 
+ 
+**Lina Marie Harper** is the Humanities and Social Sciences Analyst at Calcul Québec.  She holds a master’s degree (with thesis) in Information Science from the University of Ottawa. 
+
+[Back to the schedule](#page-top)
+
 [](){#ocr-en}
 ### Ollama for OCR, transcription and data extraction
 
-- Date: **November 17, 2026** at 10am PT | 11am ABT | 12pm ET | 2pm AT
+- Date: **November 17, 2026** at 10am PT | 11am ABT | 12pm ET | 1pm AT
 - Duration: 1 hour
 - Language of instruction: English
 
@@ -119,7 +137,7 @@ Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **November 24, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **November 24, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 2 hours
 - Language of instruction: English
 
@@ -134,7 +152,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [](){ #ai-en }
 ### Testing AI for Social Science and Humanities Research Using Chainforge
 
-- Date: **December 3, 2026** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **December 3, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 2 hours
 - Language of instruction: English
 
@@ -149,7 +167,7 @@ Instructor: **Dr. Geoffrey Martin Rockwell** is a Professor of Philosophy and Di
 [](){ #r-en }
 ### Introduction to R and RStudio
 
-- Date: **January 12, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **January 12, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 3 hours
 - Language of instruction: English
 
@@ -166,7 +184,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 [](){ #python-en }
 ### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
 
-- Date: **January 27, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **January 27, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 3 hours
 - Language of instruction: English
 
@@ -183,7 +201,7 @@ Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologis
 [](){ #nlp-en }
 ### Using Python for natural language processing (NLP)
 
-- Date: **March 3, 2027** at 9am PT | 10am ABT | 11am ET | 1pm AT
+- Date: **March 3, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 3 hours
 - Language of instruction: English
 

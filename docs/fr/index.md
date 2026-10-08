@@ -29,6 +29,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 |[Introduction à l'Alliance & CIP pour les SHS](#intro-fr)| 24 septembre 2026|
 |[Planning your Endings-Compliant Digital Project](#endings-en)|6 octobre 2026|
 |[Introduction to the cloud for HSS](#cloud-en)|3 novembre 2026|
+|[Choosing Research Software: What Researchers Need to Consider Before Getting Started](#choosing-en)|12 novembre 2026|
 |[Ollama for OCR, transcription and data extraction](#ocr-en)|17 novembre 2026|
 |[Introduction to OpenRefine](#openrefine-en)|24 novembre 2026|
 |[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|3 decembre 2026|
@@ -42,7 +43,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 [](){ #intro-en }
 ### Introduction to the Alliance & ARC for HSS
 
-- Date : **22 septembre 2026** à 9am PT | 10am MT | 12pm ET | 2pm AT
+- Date : **22 septembre 2026** à 9h PT | 10h MT | 12h ET | 13h AT
 - Duration : 1 heure
 - Langue d'instruction : Anglais
 
@@ -57,7 +58,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #intro-fr }
 ### Introduction à l'Alliance & CIP pour les SHS
 
-- Date: **24 septembre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **24 septembre 2026** à 9h PT | 10h MT | 12h ET | 13h AT
 - Duration: 1 heure
 - Langue d'instruction: Français
 
@@ -72,7 +73,7 @@ Formatrice ou formateur : **Sarah Cameron-Pesant** est analyste en calcul inform
 [](){ #endings-en }
 ### The End is Where We Start From: Planning your Endings-Compliant Digital Project
 
-- Date: **6 octobre 2026** à 9h PT | 10h MT | 12h ET | 14h AT
+- Date: **6 octobre 2026** à 9h PT | 10h MT | 12h ET | 13h AT
 - Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
@@ -87,7 +88,7 @@ Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'angl
 [](){ #cloud-en }
 ### Introduction to cloud computing for HSS
 
-- Date: **3 novembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **3 novembre 2026** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 1 heure et 30 minutes
 - Langue d'instruction: Anglais
 
@@ -99,10 +100,27 @@ Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste infonuagiqu
 
 [Retour au programme](#page-top)
 
+[](){ #choosing-en }
+### Choisir un logiciel de recherche : ce que les chercheurs doivent prendre en compte avant de se lancer
+
+- Date: **12 novembre 2026** à 12:30h PT | 13:30h ABT | 14:30h ET | 15:30h AT
+- Duration: 1 heure et 30 minutes
+- Langue d'instruction: Anglais
+ 
+Le choix d’un logiciel de recherche peut avoir des répercussions sur la confidentialité, la sécurité, la collaboration et la gestion à long terme des données de recherche. Cet atelier guidera les participants dans le processus de sélection d’un logiciel de recherche et leur permettra de comprendre les complexités inhérentes à ces décisions. Les participants examineront des aspects clés tels que la sensibilité des données, le choix entre des solutions infonuagiques et des installations locales, ainsi que l’utilisation de fonctionnalités basées sur l’intelligence artificielle. À l’issue de l’atelier, les chercheurs disposeront d’une liste pratique de questions et de points à considérer pour évaluer les options logicielles et prendre des décisions éclairées dans divers contextes de recherche.
+
+[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/aczTBTeYQyaDrZ5pW9aBiA#/registration)
+
+Formateurs ou formatrices : **Claire Burrows** est spécialiste du soutien aux services de recherche numérique à l’Université McGill. Elle est titulaire d’un doctorat en bibliothéconomie et sciences de l’information de l’Université Western.
+ 
+**Lina Marie Harper** est analyste en sciences humaines et sociales chez Calcul Québec. Elle est titulaire d’une maîtrise (avec mémoire) en sciences de l’information de l’Université d’Ottawa.
+
+[Retour au programme](#page-top)
+
 [](){ #ocr-en }
 ### Ollama for OCR, transcription and data extraction
 
-- Date: **17 novembre 2026** à 10h PT | 11h ABT | 12h ET | 14h AT
+- Date: **17 novembre 2026** à 10h PT | 11h ABT | 12h ET | 13h AT
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
@@ -121,7 +139,7 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 [](){ #openrefine-en }
 ### Introduction to OpenRefine
 
-- Date: **24 novembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **24 novembre 2026** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
@@ -136,7 +154,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #ai-en }
 ### Testing AI for Social Science and Humanities Research Using Chainforge
 
-- Date: **3 décembre 2026** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **3 décembre 2026** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 2 heures
 - Langue d'instruction: Anglais
 
@@ -151,7 +169,7 @@ Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philo
 [](){ #r-en }
 ### Introduction to R and RStudio
 
-- Date: **12 janvier 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **12 janvier 2027** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -166,7 +184,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 [](){ #python-en }
 ### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
 
-- Date: **27 janvier 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **27 janvier 2027** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -183,7 +201,7 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 [](){ #nlp-en }
 ### Using Python for natural language processing (NLP)
 
-- Date: **3 mars 2027** à 9h PT | 10h ABT | 11h ET | 13h AT
+- Date: **3 mars 2027** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
@@ -198,7 +216,7 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 [](){ #rdm-en }
 ### How to deposit: Picking a data repository and preparing your data
 
-- Date: **16 mars 2027** à 9h PT | 10h ABT | 12h ET | 14h AT
+- Date: **16 mars 2027** à 9h PT | 10h ABT | 12h ET | 13h AT
 - Duration: 1 heure
 - Langue d'instruction: Anglais
 
