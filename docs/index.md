@@ -5,26 +5,223 @@ hide:
   - path
 ---
 
-# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" } Humanities & Social Sciences Spotlight Webinar Series
+# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" } Humanities & Social Sciences Training Series, 2026-2027
 
-The [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada supports and advocates for the Canadian humanities and social sciences research community. As part of this mission, we host webinars highlighting computational and digital research being undertaken by social science and humanities researchers across the country. 
+The [National Humanities and Social Sciences Team](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) at the Digital Research Alliance of Canada supports and advocates for the Canadian humanities and social sciences research community. As part of this mission, we are launching a new training series beginning in September 2026. 
 
-These webinars will feature speakers from academia and research support fields, highlighting the diversity and innovation of computational and digital research in the humanities and social sciences. This webinar series is aimed at providing the humanities and social sciences research community with educational and networking opportunities, at increasing awareness of the variety and richness of digital and computational research, and at supporting digital competency among scholars and students in the humanities and social sciences.
+The workshops in this series are designed to take researchers and students in the humanities and social sciences through the different stages of the research process, introducing them to digital tools and research approaches relevant to each stage. The training series includes workshops on digital longevity, cloud computing, programming in R and python, data cleaning and analysis software, and data repositories. Most workshops are open to participants of all skill levels; where there are prerequisites, these will be listed in the workshop description. 
 
-## Upcoming webinars
-New webinars will be added as they are planned - check back here regularly to stay up to date!  
+All workshops are offered online and registration is free. The workshops are aimed at folks in the humanities and social sciences, but are open to anyone interested in attending. 
 
-### Memory and Ideological Bias in Conversations With Large Language Models
+You can view the entire series and register for the workshops on [Explora, the Alliance's training platform](https://explora.alliancecan.ca/collections/2026-27-humanities-and-social-sciences-hss-training-series).
 
-- Date: December 1, 2026 at 10am PT | 11am ABT | 12pm ET | 1pm AT
+All workshops in this series can be used for credit towards the [Canadian Certificate in Digital Humanities](https://ccdhhn.ca/the-certificate/).
+
+## Upcoming workshops
+Other workshops may be added to the series over time - check back regularly to see! 
+[](){ #page-top }
+
+| Workshop | Date |
+|----------|------------|
+|[Introduction to the Alliance & ARC for HSS](#intro-en)|September 22, 2026|
+|[Introduction à l'Alliance & CIP pour les SHS](#intro-fr)| September 24, 2026|
+|[Planning your Endings-Compliant Digital Project](#endings-en)|October 6, 2026|
+|[Introduction to the cloud for HSS](#cloud-en)|November 3, 2026|
+|[Choosing Research Software: What Researchers Need to Consider Before Getting Started](#choosing-en)|November 12, 2026|
+|[Ollama for OCR, transcription and data extraction](#ocr-en)|November 17, 2026|
+|[Introduction to OpenRefine](#openrefine-en)|November 24, 2026|
+|[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|December 3, 2026|
+|[Introduction to R and RStudio](#r-en)|January 12, 2027|
+|[Getting started in Python](#python-en)|January 27, 2027|
+|[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
+|[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 16, 2027|
+
+## Workshop descriptions
+
+[](){ #intro-en }
+### Introduction to the Alliance & ARC for HSS
+
+- Date: **September 22nd, 2026** at 9am PT | 10am MT | 12pm ET | 2pm AT
 - Duration: 1 hour
-- Language: English
+- Language of instruction: English
 
-A growing literature has begun to characterize Large Language Models (LLMs) as political objects. Their outputs exhibit ideological tilts; those tilts vary with the language of the prompt and the cultural context of the user; and in structured debate they can be more persuasive than human interlocutors. Models also tend, in their default state, to affirm the views and reasoning of the user they are speaking with---i.e., sycophancy---which can move the positions users express. We advance this line of research by studying the interaction between users and LLM. In this talk, we provide some evidence on how the interactions between users and Large Language Models (LLMs) produce ideological responses and the role of chatbots' memory in their ideological leaning. To this end, we embedded a LLM (gpt-5.6-luna) in an online survey experiment fielded to national samples in Argentina, Brazil, the United Kingdom, and the United States. Each respondent completed two sequential conversations, and we measured the ideological content of both the model and the user's text at every turn. Between the conversations, we randomized whether the model propagated information from the first round into the second. Within conversations, we tested whether the model's expressed position converges toward the respondent's, whether the range of ideological content it expressed narrowed over time, and whether it exhibited a directional tilt independent of the respondent. Across conversations, we tested whether a memory-primed model imported ideological content from an earlier charged exchange into a subsequent topic, including one that would ordinarily not elicit polarized responses.
+This workshop will introduce participants to the [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (the Alliance). The Alliance supports Canadian researchers in the areas of advanced research computing, research data management and research software. The Alliance also provides access to cloud computing and high-performance computing. Participants will be guided through the process of accessing these resources, and of getting support when using them. Throughout the workshop, participants will learn why and how ARC is useful in the humanities and social sciences. 
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/WRm4ejZxQESV8Hhxi53FxA#/registration)
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/pKAK7FgzRBeZSz6Zpa-Hig#/registration)
 
-**Speaker:** [Dr. Sebastian Vallejo Vera](https://www.svallejovera.com/) is an Assistant Professor in the Department of Political Science at the University of Western Ontario. He is also a member of the interdisciplinary Laboratory of Computational Social Science (iLCSS) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Dr. Vallejo Vera’s research examines how political actors strategically navigate gendered and racialized barriers to participation in political institutions, and the downstream consequences for political representation. As a computational social scientist, he develops and applies text-as-data methods---particularly Transformer-based language models---to study these questions at scale. Most recently, his work has expanded to consider Large Language Models as political objects: how human-LLM interactions shape political perception, and how these can amplify (or not) polarization, democratic deliberation, and representation.
+Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
 
-## Past webinars
+[Back to the schedule](#page-top)
 
+[](){ #intro-fr }
+### Introduction à l'Alliance & CIP pour les SHS
+
+- Date: **September 24, 2026** at 9am PT | 10am MT | 12pm ET | 1pm AT
+- Duration: 1 hour
+- Language of instruction: French
+
+This workshop will introduce participants to the [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (the Alliance). The Alliance supports Canadian researchers in the areas of advanced research computing, research data management and research software. The Alliance also provides access to cloud computing and high-performance computing. Participants will be guided through the process of accessing these resources, and of getting support when using them. Throughout the workshop, participants will learn why and how ARC is useful in the humanities and social sciences. 
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/YQN-4_-FSSevMY03KvTKug#/registration)
+
+Instructors: **Sarah Cameron-Pesant** is an advanced research computing analyst, humanities and social sciences specialist at Calcul Québec, affiliated with the Université du Québec à Montréal. She is also a PhD student in information science at École de bibliothéconomie et des sciences de l’information, Université de Montréal. She is one of the team leads for the national HSS team at the Digital Research Alliance of Canada. 
+
+[Back to the schedule](#page-top)
+
+[](){ #endings-en }
+### The End is Where We Start From: Planning your Endings-Compliant Digital Project
+
+- Date: **October 6, 2026** at 9am PT | 10am MT | 12pm ET | 1pm AT
+- Duration: 1 hour and 30 minutes
+- Language of instruction: English
+
+To give our projects the best shot at surviving long-term, we need to think about long-term sustainability and preservation from the very beginning of our digital projects. This workshop covers the principles established by the Endings Projects for beginning, releasing, and archiving your digital project in Endings-compliant ways.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/qyVNT5V6S12s-h1CwuaGZg#/registration)
+
+Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic Director of the Humanities Computing and Media Centre at the University of Victoria. She is a founding member of the [Endings Project](endings.uvic.ca), and directs The Map of Early Modern London (MoEML) and Linked Early Modern Drama Online (LEMDO). With Jennifer Roberts-Smith and MB Kaethler, she co-edited Shakespeare’s Language in Digital Media (Routledge). Her essays and book chapters have appeared in Shakespeare Bulletin, Elizabethan Theatre, EMLS, JMEMS, DHQ, Digital Studies, Scholarly Editing, and other venues.
+
+[Back to the schedule](#page-top)
+
+[](){ #cloud-en }
+### Introduction to cloud computing for HSS
+
+- Date: **November 3, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 1 hour and 30 minutes
+- Language of instruction: English
+
+This introductory workshop explores how cloud computing can support research projects. Participants will be introduced to the fundamentals of cloud computing and be given the tools for determining  when cloud computing is the right choice over high-performance computing (HPC). The workshop will provide an overview of the cloud services offered by the Digital Research Alliance of Canada, including the available cloud sites, the process of getting a cloud project, and the storage options and types of cloud projects available. The workshop will also discuss common research use cases, practical considerations for getting started and conclude with a live demonstration of launching a cloud virtual machine and hosting a basic website.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/3ESy_EARQ7uW7a7UPovfnQ#/registration)
+
+Instructor: **Srivathsan Shanmuganathan** is a Cloud Analyst with the Digital Research Services team at the University of Alberta. Srivathsan works with researchers to identify and design cloud computing solutions that support their research needs, including helping researchers choose appropriate cloud technologies and developing cloud architectures using platforms such as OpenStack, Google Cloud Platform (GCP) and Amazon Web Services (AWS).
+
+[Back to the schedule](#page-top)
+
+[](){ #choosing-en}
+### Choosing Research Software: What Researchers Need to Consider Before Getting Started
+
+- Date: **November 12, 2026** at 12:30pm PT | 1:30pm ABT | 2:30pm ET | 3:30pm AT
+- Duration: 1 hour and 30 minutes
+- Language of instruction: English
+
+Research software decisions can have implications for privacy, security, collaboration, and the long-term stewardship of research data. This workshop will guide participants through the process of selecting research software and understanding the complexities involved in those decisions. Participants will explore key considerations related to data sensitivity, cloud-based versus locally installed solutions, and the use of AI-enabled features. Researchers will leave with a practical set of questions and considerations to help evaluate software options and make informed decisions across a variety of research contexts.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/aczTBTeYQyaDrZ5pW9aBiA#/registration)
+ 
+Instructors:  **Claire Burrows** is the Digital Research Services Support Specialist at McGill University. She holds a PhD in Library and Information Science from Western University. 
+ 
+**Lina Marie Harper** is the Humanities and Social Sciences Analyst at Calcul Québec.  She holds a master’s degree (with thesis) in Information Science from the University of Ottawa. 
+
+[Back to the schedule](#page-top)
+
+[](){#ocr-en}
+### Ollama for OCR, transcription and data extraction
+
+- Date: **November 17, 2026** at 10am PT | 11am ABT | 12pm ET | 1pm AT
+- Duration: 1 hour
+- Language of instruction: English
+
+This workshop will introduce the use of the Ollama application to extract text and structured data from images and sound recordings. It will cover installation and operation of Ollama, and will provide worked examples which can be explored in real time. Ollama provides a chat interface for familiar chat interactions, and also a network API which allows programmatic access to its service, using scripts in various programming languages (the examples will use Python). Ollama is free and open source, and can be installed on Windows, Mac and Linux machines. 
+
+It uses free downloadable LLMs which are useful for a variety of tasks such as OCR, speech transcription, or even deriving structured data such as CSV or JSON. With a good GPU and the use of Python scripts it is possible to automate these tasks to handle large sets of page images. The quality depends on the size of the model, which in turn depends on the hardware. The best results come when running on a machine with an NVIDIA GPU or a Mac with integrated memory; but even on a simpler system it can be used for private investigation of the capabilities of LLMs for various tasks.
+
+The workshop will demonstrate three tasks: OCR of a handwritten text, transcription of a voice recording, and extraction of CSV data from a structured printed document. The examples will use the desktop application and Python scripts. It will familiarize you with the basic methods of applying LLMs to these research problems. The processes can be transferred to paid online AI services, but for most research purposes, output from a local LLM running on a reasonably capable workstation will be of equal quality.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/w_QcbDm1QtuM4z1wxW5D1w#/registration)
+
+Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a librarian with the U of A Library, where he offers workshops and consultations to support researchers with problems and methods of digital scholarship. He has worked in digitization, digital librarianship and digital preservation since the early years of this century. His academic background is in textual studies in the Latin Middle Ages, and he has a Ph.D. in Medieval Studies. His research is now mostly devoted to the 20th century history of pre-digital research technologies such as microfilm.
+
+[Back to the schedule](#page-top)
+
+[](){ #openrefine-en }
+### Introduction to OpenRefine
+
+- Date: **November 24, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 2 hours
+- Language of instruction: English
+
+This session will introduce participants to OpenRefine, a powerful, free and open source tool to work with large datasets. We will quickly work through how to use OpenRefine to effectively clean and format tabular data while automatically tracking any changes. This session is suitable for beginners with no prior knowledge of OpenRefine. There are no prerequisite coding skills. While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about OpenRefine. View the workshop materials [here](https://mariasfinnsdottir.ca/openrefine_fall2025/). 
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/aAifrbi4R1y3QOmUpMvAKQ#/)
+
+Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
+
+[Back to the schedule](#page-top)
+
+[](){ #ai-en }
+### Testing AI for Social Science and Humanities Research Using Chainforge
+
+- Date: **December 3, 2026** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 2 hours
+- Language of instruction: English
+
+If you want to use Large Language Models for research you will want to test different combinations of evidence, prompts, and models. Chainforge is a free in-browser visual programming environment that lets you lay out flows that try variations of evidence, prompts, and models. In this workshop we will show you how to use Chainforge to create flows that fit your research needs. We will also survey some common models for flows in the Social Science and Humanities.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/R9nxY3i5S5Kte17vj1CIXA#/registration)
+
+Instructor: **Dr. Geoffrey Martin Rockwell** is a Professor of Philosophy and Digital Humanities at the University of Alberta. He holds a Canada CIFAR AI Chair and is a Fellow at the Alberta Machine Intelligence Institute. He has a Ph.D. in Philosophy from the University of Toronto and has published on subjects such as artificial intelligence and ethics, philosophical dialogue, textual visualization and analysis, digital humanities, instructional technology, computer games and multimedia. His books include Defining Dialogue: From Socrates to the Internet (Humanity Books, 2003) and Hermeneutica, co-authored with Stéfan Sinclair (MIT Press, 2016). Hermeneutica is part of a hybrid text and tool project with Voyant Tools (voyant-tools.org), an award-winning suite of analytical tools. He recently co-edited Right Research: Modelling Sustainable Research Practices in the Anthropocene (Open Book Publishers, 2021) and On Making in the Digital Humanities (UCL Press, 2023).
+
+[Back to the schedule](#page-top)
+
+[](){ #r-en }
+### Introduction to R and RStudio
+
+- Date: **January 12, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 3 hours
+- Language of instruction: English
+
+Welcome to this workshop on R and R studio! In this session, participants will learn the basics of coding in R, and will become familiar with using RStudio. We will cover creating objects, importing and working with data, using the basic libraries, and performing simple operations. This session is suitable for beginners with no prior knowledge of R. There are no prerequisite coding skills. 
+
+While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about R. You can view the materials [here](https://mariasfinnsdottir.ca/intro_r_fall2025/).
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/wVpu-EITTDCeErdSp9IXMA)
+
+Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
+
+[Back to the schedule](#page-top)
+
+[](){ #python-en }
+### Getting started in Python: An introductory course to programming in Python using MoMA datasets as an example
+
+- Date: **January 27, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 3 hours
+- Language of instruction: English
+
+Python has been one of the most popular programming languages for the past 20 years. Today it is a key language for data analysis in a huge number of fields, including many in the social sciences and humanities. 
+
+This introductory workshop will walk you through the basics of programming in Python. You will be introduced to the main language features of Python, including: variables and data types, conditionals, lists, for/while loops, list comprehensions, and dictionaries. You will also learn how to write your own functions, and how to work with and plot tabular data. The workshop will give you lots of opportunities for hands-on practice; instead of covering these topics in a dry and abstract fashion, we will play with datasets from the Museum of Modern Art and discuss concepts as we go.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/w_4lNVv7QPeer_Jfcgugvg#/registration)
+
+Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologist by training, a Software/Data Carpentry instructor, and an open source advocate. She develops and delivers high-performance computing and machine learning training for researchers at Canadian universities on behalf of [Simon Fraser University](https://www.rcg.sfu.ca/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/).
+
+[Back to the schedule](#page-top)
+
+[](){ #nlp-en }
+### Using Python for natural language processing (NLP)
+
+- Date: **March 3, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
+- Duration: 3 hours
+- Language of instruction: English
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/TrAVwjEmSg2ZPBfnwBGHTg#/registration)
+
+Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologist by training, a Software/Data Carpentry instructor, and an open source advocate. She develops and delivers high-performance computing and machine learning training for researchers at Canadian universities on behalf of [Simon Fraser University](https://www.rcg.sfu.ca/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/).
+
+[Back to the schedule](#page-top)
+
+[](){ #rdm-en }
+### How to deposit: Picking a data repository and preparing your data
+
+- Date: **March 16, 2027** at 9am PT | 10am ABT | 12pm ET | 2pm AT
+- Duration: 1 hour
+- Language of instruction: English
+
+Data deposit is an important part of the FAIR Principles and a crucial aspect of the research lifecycle, especially as it is becoming a requirement for more and more funders and publishers. This workshop will provide guidance on how to find an appropriate repository and how to prepare your data for deposit. It will also highlight Canada's national generalist repository, the Federated Research Data Repository.
+
+[Register here!](https://engagedri-ca.zoom.us/meeting/register/AiUPqnLdTgq7wZ6KQzsDAA#/registration)
+
+Instructor: **Laura Gerlitz** is a graduate of the University of Alberta with a Masters in Library and Information Science and a Masters of Arts in Digital Humanities, and is currently a Metadata Analyst at the Digital Research Alliance of Canada. Previously, she worked with the Federated Research Data Repository as a Curation Officer, and at the Bank of Canada as a Metadata Librarian. She is involved in the Canadian RDM landscape as a member of the National HSS Team, the Discovery and Metadata Expert Group and the Curation Expert Group.
+
+[Back to the schedule](#page-top)
