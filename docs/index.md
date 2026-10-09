@@ -47,7 +47,7 @@ Other workshops may be added to the series over time - check back regularly to s
 
 This workshop will introduce participants to the [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (the Alliance). The Alliance supports Canadian researchers in the areas of advanced research computing, research data management and research software. The Alliance also provides access to cloud computing and high-performance computing. Participants will be guided through the process of accessing these resources, and of getting support when using them. Throughout the workshop, participants will learn why and how ARC is useful in the humanities and social sciences. 
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/pKAK7FgzRBeZSz6Zpa-Hig#/registration)
+[View the workshop slides here!](./content/introduction_DRAC_english.pdf)
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024. She is also the chair of the national HSS team at the Digital Research Alliance of Canada.   
 
@@ -62,7 +62,7 @@ Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the H
 
 This workshop will introduce participants to the [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (the Alliance). The Alliance supports Canadian researchers in the areas of advanced research computing, research data management and research software. The Alliance also provides access to cloud computing and high-performance computing. Participants will be guided through the process of accessing these resources, and of getting support when using them. Throughout the workshop, participants will learn why and how ARC is useful in the humanities and social sciences. 
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/YQN-4_-FSSevMY03KvTKug#/registration)
+[View the workshop slides here!](./content/introduction_Alliance_francais.pdf)
 
 Instructors: **Sarah Cameron-Pesant** is an advanced research computing analyst, humanities and social sciences specialist at Calcul Québec, affiliated with the Université du Québec à Montréal. She is also a PhD student in information science at École de bibliothéconomie et des sciences de l’information, Université de Montréal. She is one of the team leads for the national HSS team at the Digital Research Alliance of Canada. 
 
