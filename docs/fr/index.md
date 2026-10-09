@@ -49,7 +49,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 
 Cet atelier présentera aux participant·es l’[Alliance de recherche numérique du Canada](https://www.alliancecan.ca/en). L’Alliance soutient la communauté de recherche canadienne dans les domaines du calcul informatique de pointe (CIP), de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à des infrastructures de calcul haute performance et des environnements infonuagiques. Les personnes participantes seront guidées dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils et elles découvriront l’utilité du CIP en sciences humaines et sociales.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/pKAK7FgzRBeZSz6Zpa-Hig#/registration)
+[Consultez les supports de l'atelier ici!](/Users/mariafinnsdottir/Documents/GitHub/training/docs/content/introduction_DRAC_english.pdf)
 
 Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste des sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
 
@@ -64,7 +64,7 @@ Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.
 
 Cet atelier présentera aux participant·es l’[Alliance de recherche numérique du Canada](https://www.alliancecan.ca/en). L’Alliance soutient la communauté de recherche canadienne dans les domaines du calcul informatique de pointe (CIP), de la gestion des données de recherche et des logiciels de recherche. Elle offre également un accès à des infrastructures de calcul haute performance et des environnements infonuagiques. Les personnes participantes seront guidées dans le processus d’accès à ces ressources et dans l’obtention de soutien lors de leur utilisation. Tout au long de l’atelier, ils et elles découvriront l’utilité du CIP en sciences humaines et sociales.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/YQN-4_-FSSevMY03KvTKug#/registration)
+[Consultez les supports de l'atelier ici!](docs/content/introduction_Alliance_francais.pdf)
 
 Formatrice ou formateur : **Sarah Cameron-Pesant** est analyste en calcul informatique de pointe, spécialiste des sciences humaines et sociales, chez Calcul Québec, attachée à l’Université du Québec à Montréal. Elle est également étudiante au doctorat en sciences de l’information à l’École de bibliothéconomie et des sciences de l’information de l’Université de Montréal. Elle fait partie de l'équipe de direction et de coordination de l'équipe nationale SHS de l'Alliance de recherche numérique du Canada.
 
