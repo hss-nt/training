@@ -1,5 +1,5 @@
-site_name: Humanities & Social Sciences National Team Training
-site_url: https://hss-nt.github.io/training/
+site_name: Humanities & Social Sciences Spotlight Series
+site_url: https://hss-nt.github.io/spotlight_series/
 theme:
   name: material
   language: en
@@ -34,7 +34,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 nav:
-  - 2026-27 Training Series: index.md
+  - HSS Spotlight Webinars: index.md
 
 plugins:
   - autorefs
@@ -53,7 +53,7 @@ plugins:
           name: Français
           build: true
           nav_translations:
-            2026-27 Training Series: Série d'ateliers de formation, 2026-27
+            HSS Spotlight Webinars: Webinaires « HSS Spotlight »
 
 hide:
   - nav

@@ -1,7 +1,7 @@
 [project]
-name = "hss-nt-training"
+name = "hss-nt-spotlight-series"
 version = "0.1.0"
-description = "HSS National Team Training Site"
+description = "HSS Spotlight Webinar Series"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
