@@ -77,8 +77,6 @@ Instructors: **Sarah Cameron-Pesant** is an advanced research computing analyst,
 
 To give our projects the best shot at surviving long-term, we need to think about long-term sustainability and preservation from the very beginning of our digital projects. This workshop covers the principles established by the Endings Projects for beginning, releasing, and archiving your digital project in Endings-compliant ways.
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/qyVNT5V6S12s-h1CwuaGZg#/registration)
-
 Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic Director of the Humanities Computing and Media Centre at the University of Victoria. She is a founding member of the [Endings Project](endings.uvic.ca), and directs The Map of Early Modern London (MoEML) and Linked Early Modern Drama Online (LEMDO). With Jennifer Roberts-Smith and MB Kaethler, she co-edited Shakespeare’s Language in Digital Media (Routledge). Her essays and book chapters have appeared in Shakespeare Bulletin, Elizabethan Theatre, EMLS, JMEMS, DHQ, Digital Studies, Scholarly Editing, and other venues.
 
 [Back to the schedule](#page-top)
@@ -92,7 +90,7 @@ Instructor: **Janelle Jenstad**, PhD FRSC, is Professor of English and Academic 
 
 This introductory workshop explores how cloud computing can support research projects. Participants will be introduced to the fundamentals of cloud computing and be given the tools for determining  when cloud computing is the right choice over high-performance computing (HPC). The workshop will provide an overview of the cloud services offered by the Digital Research Alliance of Canada, including the available cloud sites, the process of getting a cloud project, and the storage options and types of cloud projects available. The workshop will also discuss common research use cases, practical considerations for getting started and conclude with a live demonstration of launching a cloud virtual machine and hosting a basic website.
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/3ESy_EARQ7uW7a7UPovfnQ#/registration)
+[View the session slides here!](./content/Intro to Cloud for HSS.pdf)
 
 Instructor: **Srivathsan Shanmuganathan** is a Cloud Analyst with the Digital Research Services team at the University of Alberta. Srivathsan works with researchers to identify and design cloud computing solutions that support their research needs, including helping researchers choose appropriate cloud technologies and developing cloud architectures using platforms such as OpenStack, Google Cloud Platform (GCP) and Amazon Web Services (AWS).
 
