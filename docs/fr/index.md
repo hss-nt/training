@@ -79,8 +79,6 @@ Formatrice ou formateur : **Sarah Cameron-Pesant** est analyste en calcul inform
 
 Pour donner à nos projets les meilleures chances de perdurer, nous devons envisager leur pérennité et leur préservation dès leur conception initiale. Cet atelier présente les principes établis par le projet « Endings » pour lancer, publier et archiver un projet numérique tout en respectant les normes de ce projet.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/qyVNT5V6S12s-h1CwuaGZg#/registration)
-
 Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'anglais et directrice académique du *Humanities Computing and Media Centre* à l'Université de Victoria. Membre fondatrice du projet [Endings](endings.uvic.ca), elle dirige les projets *The Map of Early Modern London* (MoEML) et *Linked Early Modern Drama Online* (LEMDO). Elle a codirigé, avec Jennifer Roberts-Smith et MB Kaethler, l'ouvrage *Shakespeare’s Language in Digital Media* (Routledge). Ses articles et chapitres d'ouvrages ont été publiés dans des revues et publications telles que *Shakespeare Bulletin*, *Elizabethan Theatre*, *EMLS*, *JMEMS*, *DHQ*, *Digital Studies* et *Scholarly Editing*.
 
 [Retour au programme](#page-top)
@@ -94,7 +92,7 @@ Formatrice ou formateur : **Janelle Jenstad** (PhD, FRSC) est professeure d'angl
 
 Cet atelier d'initiation explore comment l'informatique en nuage peut soutenir les projets de recherche. Les personnes participantes seront initiées aux principes fondamentaux de l'informatique en nuage et recevront les outils nécessaires pour déterminer quand cette approche est plus appropriée que le calcul haute performance (CHP). L'atelier présentera les services en nuage offerts par l'Alliance de recherche numérique du Canada, notamment les plateformes disponibles, la procédure de création d'un projet infonuagique, ainsi que les options de stockage et les types de projets proposés. Il abordera également des cas d'utilisation courants en recherche, des considérations pratiques pour la mise en route et se conclura par une démonstration pratique du lancement d'une machine virtuelle et de l'hébergement d'un site web simple.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/3ESy_EARQ7uW7a7UPovfnQ#/registration)
+[Consultez les supports de l'atelier ici!](./content/cloud_for_hss_slides.pdf)
 
 Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste infonuagique au sein de l'équipe des Services de recherche numérique de l'Université de l'Alberta. Il accompagne les chercheur·ses dans l'identification et la conception de solutions d'informatique en nuage répondant à leurs besoins, notamment en les aidant à choisir les technologies appropriées et à développer des architectures en nuage sur des plateformes telles qu'OpenStack, Google Cloud Platform (GCP) et Amazon Web Services (AWS).
 
