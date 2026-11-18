@@ -107,7 +107,7 @@ Formatrice ou formateur : **Srivathsan Shanmuganathan** est analyste infonuagiqu
  
 Le choix d’un logiciel de recherche peut avoir des répercussions sur la confidentialité, la sécurité, la collaboration et la gestion à long terme des données de recherche. Cet atelier guidera les participants dans le processus de sélection d’un logiciel de recherche et leur permettra de comprendre les complexités inhérentes à ces décisions. Les participants examineront des aspects clés tels que la sensibilité des données, le choix entre des solutions infonuagiques et des installations locales, ainsi que l’utilisation de fonctionnalités basées sur l’intelligence artificielle. À l’issue de l’atelier, les chercheurs disposeront d’une liste pratique de questions et de points à considérer pour évaluer les options logicielles et prendre des décisions éclairées dans divers contextes de recherche.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/aczTBTeYQyaDrZ5pW9aBiA#/registration)
+[Consultez les supports de l'atelier ici!](./content/Choosing-RS-Nov-12-2026.pdf)
 
 Formateurs ou formatrices : **Claire Burrows** est spécialiste du soutien aux services de recherche numérique à l’Université McGill. Elle est titulaire d’un doctorat en bibliothéconomie et sciences de l’information de l’Université Western.
  
@@ -128,8 +128,6 @@ Il s'appuie sur des grands modèles de langage (LLMs) gratuits et téléchargeab
 
 L'atelier présentera trois cas d'usage : la ROC d'un texte manuscrit, la transcription d'un enregistrement vocal et l'extraction de données CSV à partir d'un document textuel structuré. Les exemples s'appuieront à la fois sur l'application de bureau et sur des scripts Python. Vous vous familiariserez ainsi avec les méthodes fondamentales d'application des LLMs à ces problématiques de recherche. Bien que ces processus puissent être transposés vers des services d'IA en ligne payants, les résultats obtenus avec un LLM local sur une station de travail aux performances correctes seront, pour la plupart des besoins de recherche, d'une qualité équivalente.
 
-[Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/w_QcbDm1QtuM4z1wxW5D1w#/registration)
-
 Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) est bibliothécaire à l'Université de l'Alberta (U of A Library) ; il y anime des ateliers et propose des consultations pour accompagner les chercheur·ses dans les méthodes et enjeux des humanités numériques (digital scholarship). Il travaille dans les domaines de la numérisation, de la bibliothéconomie numérique et de la préservation numérique depuis le début des années 2000. Spécialiste des études textuelles sur le Moyen Âge latin, il est titulaire d'un doctorat en études médiévales. Ses recherches actuelles portent principalement sur l'histoire, au XXe siècle, des technologies de recherche pré-numériques telles que le microfilm.
 
 [Retour au programme](#page-top)
@@ -142,6 +140,8 @@ Formatrice ou formateur : [Peter Binkley](https://profile.hcommons.org/members/p
 - Langue d'instruction: Anglais
 
 Cette session initiera les participant·es à OpenRefine, un logiciel libre puissant et gratuit permettant de travailler avec de grands ensembles de données au format tabulaire. Nous verrons rapidement comment utiliser OpenRefine pour nettoyer et formater efficacement des données tabulaires tout en suivant automatiquement les modifications. Cette session est idéale pour les débutant·es n'ayant aucune connaissance préalable d'OpenRefine. Aucune compétence en programmation n'est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne souhaitant découvrir OpenRefine. Consultez le matériel de l'atelier [ici](https://mariasfinnsdottir.ca/openrefine_fall2025/).
+
+Cette session ne sera pas enregristré. 
 
 [Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/aAifrbi4R1y3QOmUpMvAKQ#/)
 

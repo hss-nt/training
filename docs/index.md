@@ -105,7 +105,7 @@ Instructor: **Srivathsan Shanmuganathan** is a Cloud Analyst with the Digital Re
 
 Research software decisions can have implications for privacy, security, collaboration, and the long-term stewardship of research data. This workshop will guide participants through the process of selecting research software and understanding the complexities involved in those decisions. Participants will explore key considerations related to data sensitivity, cloud-based versus locally installed solutions, and the use of AI-enabled features. Researchers will leave with a practical set of questions and considerations to help evaluate software options and make informed decisions across a variety of research contexts.
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/aczTBTeYQyaDrZ5pW9aBiA#/registration)
+[View the session slides here!](./content/Choosing-RS-Nov-12-2026.pdf)
  
 Instructors:  **Claire Burrows** is the Digital Research Services Support Specialist at McGill University. She holds a PhD in Library and Information Science from Western University. 
  
@@ -140,6 +140,8 @@ Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a
 - Language of instruction: English
 
 This session will introduce participants to OpenRefine, a powerful, free and open source tool to work with large datasets. We will quickly work through how to use OpenRefine to effectively clean and format tabular data while automatically tracking any changes. This session is suitable for beginners with no prior knowledge of OpenRefine. There are no prerequisite coding skills. While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about OpenRefine. View the workshop materials [here](https://mariasfinnsdottir.ca/openrefine_fall2025/). 
+
+This session will not be recorded. 
 
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/aAifrbi4R1y3QOmUpMvAKQ#/)
 
