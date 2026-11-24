@@ -35,7 +35,7 @@ Cliquez sur le titre de l'atelier pour accéder à sa description.
 |[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|3 decembre 2026|
 |[Introduction to R and RStudio](#r-en)|12 janvier 2027|
 |[Getting started in Python](#python-en)|27 janvier 2027|
-|[Using Python for natural language processing (NLP)](#nlp-en)|3 mars 2027|
+|[From keywords to meaning: analyzing texts with Python and open language models](#nlp-en)|3 mars 2027|
 |[How to deposit: Picking a data repository and preparing your data](#rdm-en)|16 mars 2027|
 
 ## Évènements
@@ -173,6 +173,8 @@ Formatrice ou formateur: **Dr Geoffrey Martin Rockwell** est professeur de philo
 
 Bienvenue à ce cours sur R et RStudio ! Durant cette session, les participant·es apprendront les bases de la programmation en R et se familiariseront avec l’utilisation de RStudio. Nous aborderons la création d’objets, l’importation et le traitement de données, l’utilisation des bibliothèques de base et la réalisation d’opérations simples. Cette session est idéale pour les débutant·es n’ayant aucune connaissance préalable de R. Aucune compétence en programmation n’est requise. Bien que les exemples et les données utilisés soient destinés à la communauté des sciences humaines et sociales, la session est ouverte à toute personne intéressée par l’apprentissage de R. Vous pouvez consulter les ressources [ici](https://mariasfinnsdottir.ca/intro_r_fall2025/).
 
+Cette session ne sera pas enregristré. 
+
 [Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/wVpu-EITTDCeErdSp9IXMA)
 
 Formatrice ou formateur: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) est spécialiste des sciences humaines et sociales au sein de l'équipe des services de recherche numérique de l'Université de l'Alberta. Elle a obtenu un doctorat en sociologie à l'Université de Toronto en 2024. Elle préside également l'équipe nationale SHS de l'Alliance de recherche numérique du Canada. 
@@ -190,6 +192,8 @@ Python est l'un des langages de programmation les plus populaires depuis 20 ans.
 
 Cet atelier d'initiation vous familiarisera avec les bases de la programmation en Python. Vous découvrirez les principales fonctionnalités du langage, telles que les variables et les types de données, les instructions conditionnelles, les listes, les boucles for/while, les listes et les dictionnaires. Vous apprendrez également à écrire vos propres fonctions et à manipuler et représenter graphiquement des données tabulaires. L'atelier vous offrira de nombreuses occasions de pratiquer ; au lieu d'aborder ces sujets de manière théorique et abstraite, nous travaillerons avec des jeux de données du Museum of Modern Art (MoMA) et discuterons des concepts au fur et à mesure.
 
+Cette session ne sera pas enregristré. 
+
 [Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/w_4lNVv7QPeer_Jfcgugvg#/registration)
 
 Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolution et du comportement, formatrice en Software/Data Carpentry et fervente défenseure des logiciels libres. Elle développe et dispense des formations en calcul haute performance et en apprentissage automatique aux chercheur·ses des universités canadiennes au nom de [l'Université Simon Fraser](https://www.rcg.sfu.ca/) et de [l'Alliance de recherche numérique du Canada](https://alliancecan.ca/).
@@ -197,13 +201,21 @@ Formatrice ou formateur : **Marie-Hélène Burle** est biologiste de l'évolutio
 [Retour au programme](#page-top)
 
 [](){ #nlp-en }
-### Using Python for natural language processing (NLP)
+### From keywords to meaning: analyzing texts with Python and open language models
 
 - Date: **3 mars 2027** à 9h PT | 10h ABT | 11h ET | 12h AT
 - Duration: 3 heures
 - Langue d'instruction: Anglais
 
-*Description à venir.*
+Cet atelier pratique initie les chercheurs à des outils modernes, gratuits et open source, destinés à l’analyse de corpus textuels — qu’il s’agisse de romans, de discours, de documents d’archives ou de transcriptions d’entretiens. En travaillant en Python sur des corpus issus du domaine public, les participants apprendront à :
+
+- effectuer des recherches dans un vaste ensemble de textes en se basant sur le sens plutôt que sur des mots-clés, grâce à la recherche sémantique par plongements (embeddings) ;
+- cartographier et regrouper (clusteriser) un corpus pour en faire émerger les thématiques ;
+- utiliser des grands modèles de langage (LLM) en accès libre pour classer et annoter des textes à grande échelle, tout en évaluant la fiabilité de ces annotations.
+
+Aucune connaissance préalable en apprentissage automatique (machine learning) n’est requise. Une maîtrise élémentaire de Python (variables, boucles et fonctions — telle que celle abordée dans le module « Premiers pas en Python » de cette série) est toutefois recommandée.
+
+Cette session ne sera pas enregristré. 
 
 [Inscrivez-vous ici](https://engagedri-ca.zoom.us/meeting/register/TrAVwjEmSg2ZPBfnwBGHTg#/registration)
 

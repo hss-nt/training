@@ -33,7 +33,7 @@ Other workshops may be added to the series over time - check back regularly to s
 |[Testing AI for Social Science and Humanities Research Using Chainforge](#ai-en)|December 3, 2026|
 |[Introduction to R and RStudio](#r-en)|January 12, 2027|
 |[Getting started in Python](#python-en)|January 27, 2027|
-|[Using Python for natural language processing (NLP)](#nlp-en)|March 3, 2027|
+|[From keywords to meaning: analyzing texts with Python and open language models](#nlp-en)|March 3, 2027|
 |[How to deposit: Picking a data repository and preparing your data](#rdm-en)|March 16, 2027|
 
 ## Workshop descriptions
@@ -126,8 +126,6 @@ It uses free downloadable LLMs which are useful for a variety of tasks such as O
 
 The workshop will demonstrate three tasks: OCR of a handwritten text, transcription of a voice recording, and extraction of CSV data from a structured printed document. The examples will use the desktop application and Python scripts. It will familiarize you with the basic methods of applying LLMs to these research problems. The processes can be transferred to paid online AI services, but for most research purposes, output from a local LLM running on a reasonably capable workstation will be of equal quality.
 
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/w_QcbDm1QtuM4z1wxW5D1w#/registration)
-
 Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a librarian with the U of A Library, where he offers workshops and consultations to support researchers with problems and methods of digital scholarship. He has worked in digitization, digital librarianship and digital preservation since the early years of this century. His academic background is in textual studies in the Latin Middle Ages, and he has a Ph.D. in Medieval Studies. His research is now mostly devoted to the 20th century history of pre-digital research technologies such as microfilm.
 
 [Back to the schedule](#page-top)
@@ -142,8 +140,6 @@ Instructor: [Peter Binkley](https://profile.hcommons.org/members/pbinkley/) is a
 This session will introduce participants to OpenRefine, a powerful, free and open source tool to work with large datasets. We will quickly work through how to use OpenRefine to effectively clean and format tabular data while automatically tracking any changes. This session is suitable for beginners with no prior knowledge of OpenRefine. There are no prerequisite coding skills. While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about OpenRefine. View the workshop materials [here](https://mariasfinnsdottir.ca/openrefine_fall2025/). 
 
 This session will not be recorded. 
-
-[Register here!](https://engagedri-ca.zoom.us/meeting/register/aAifrbi4R1y3QOmUpMvAKQ#/)
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
 
@@ -175,6 +171,8 @@ Welcome to this workshop on R and R studio! In this session, participants will l
 
 While the examples and data used will be aimed at the Humanities and Social Sciences community, the session is open to anyone and everyone interested in learning about R. You can view the materials [here](https://mariasfinnsdottir.ca/intro_r_fall2025/).
 
+This session will not be recorded. 
+
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/wVpu-EITTDCeErdSp9IXMA)
 
 Instructor: [Maria Sigridur Finnsdottir](https://mariasfinnsdottir.ca/) is the Humanities and Social Sciences Specialist with the Digital Research Services team at the University of Alberta. She holds a PhD in Sociology awarded from the University of Toronto in 2024.  She is also the chair of the National Humanities and Social Sciences Team at the Digital Research Alliance of Canada. 
@@ -192,6 +190,8 @@ Python has been one of the most popular programming languages for the past 20 ye
 
 This introductory workshop will walk you through the basics of programming in Python. You will be introduced to the main language features of Python, including: variables and data types, conditionals, lists, for/while loops, list comprehensions, and dictionaries. You will also learn how to write your own functions, and how to work with and plot tabular data. The workshop will give you lots of opportunities for hands-on practice; instead of covering these topics in a dry and abstract fashion, we will play with datasets from the Museum of Modern Art and discuss concepts as we go.
 
+This session will not be recorded. 
+
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/w_4lNVv7QPeer_Jfcgugvg#/registration)
 
 Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologist by training, a Software/Data Carpentry instructor, and an open source advocate. She develops and delivers high-performance computing and machine learning training for researchers at Canadian universities on behalf of [Simon Fraser University](https://www.rcg.sfu.ca/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/).
@@ -199,11 +199,21 @@ Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologis
 [Back to the schedule](#page-top)
 
 [](){ #nlp-en }
-### Using Python for natural language processing (NLP)
+### From keywords to meaning: analyzing texts with Python and open language models
 
 - Date: **March 3, 2027** at 9am PT | 10am ABT | 11am ET | 12pm AT
 - Duration: 3 hours
 - Language of instruction: English
+
+This hands-on workshop introduces researchers to modern, free, and open-source tools for analyzing collections of texts, from novels and speeches to archival documents and interview transcripts. Working in Python with public-domain corpora, participants will learn to:
+
+- search a large collection of texts by meaning rather than keywords, using semantic search via embeddings,
+- map and cluster a corpus to reveal themes,
+- use open-weight large language models (LLMs) to classify and annotate texts at scale, and to assess how reliable those annotations are.
+
+No machine-learning background is required. Basic familiarity with Python (variables, loops, and functions—for example from "Getting started in Python" in this series) is recommended.
+
+This session will not be recorded. 
 
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/TrAVwjEmSg2ZPBfnwBGHTg#/registration)
 
@@ -219,6 +229,8 @@ Instructor: **Marie-Hélène Burle** is an evolutionary and behavioural biologis
 - Language of instruction: English
 
 Data deposit is an important part of the FAIR Principles and a crucial aspect of the research lifecycle, especially as it is becoming a requirement for more and more funders and publishers. This workshop will provide guidance on how to find an appropriate repository and how to prepare your data for deposit. It will also highlight Canada's national generalist repository, the Federated Research Data Repository.
+
+This session will not be recorded.
 
 [Register here!](https://engagedri-ca.zoom.us/meeting/register/AiUPqnLdTgq7wZ6KQzsDAA#/registration)
 
